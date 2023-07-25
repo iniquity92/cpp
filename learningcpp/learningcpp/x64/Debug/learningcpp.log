@@ -1,0 +1,3 @@
+﻿  fileio.cpp
+D:\abhishek\source\c++\learningcpp\learningcpp\fileio.cpp(17,10): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  learningcpp.vcxproj -> D:\abhishek\source\c++\learningcpp\x64\Debug\learningcpp.exe

@@ -1,0 +1,7 @@
+﻿  main.cpp
+D:\abhishek\source\c++\concepts\concepts\main.cpp(19,16): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\abhishek\source\c++\concepts\concepts\main.cpp(19,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\abhishek\source\c++\concepts\concepts\main.cpp(19,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\abhishek\source\c++\concepts\concepts\main.cpp(20,16): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\abhishek\source\c++\concepts\concepts\main.cpp(20,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+  concepts.vcxproj -> D:\abhishek\source\c++\concepts\x64\Debug\concepts.exe

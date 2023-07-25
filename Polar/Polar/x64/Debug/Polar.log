@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\abhishek\source\c++\Polar\Polar\POLAR.h(7,19): warning C4305: 'initializing': truncation from 'double' to 'const float'
+D:\abhishek\source\c++\Polar\Polar\POLAR.h(44,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Polar.vcxproj -> D:\abhishek\source\c++\Polar\x64\Debug\Polar.exe

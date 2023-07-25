@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\abhishek\source\c++\Float\Float\main.cpp(7,10): warning C4305: 'argument': truncation from 'double' to 'float'
+  Float.vcxproj -> D:\abhishek\source\c++\Float\x64\Debug\Float.exe
